@@ -156,7 +156,7 @@ follow.
 
 ## Organisation
 
-Prior to release, the NEWS file needs to be thoroughly proof read and groomed.
+Prior to release, the NEWS file needs to be thoroughly proofread and groomed.
 
 Each release should have a level 1 heading (`#`) containing the package name 
 and version number. For smaller packages or patch releases this amount of
@@ -177,7 +177,7 @@ organisation may be sufficient. For example, here is the NEWS for model 0.1.2:
   and `...` argument (@jrnold, #42).
 ```
 
-If there are manymany bullets, the version heading should be following issues 
+If there are many bullets, the version heading should be following issues 
 grouped into related areas with level 2 headings (`##`). Three commonly
 used sections are shown below:
 
@@ -216,7 +216,7 @@ included these headings:
 ### Other
 ```
 
-It is not worthwhile to organis bullets into headings during development, as 
+It is not worthwhile to organise bullets into headings during development, as 
 it's not typically obvious what the groups will be in advance.
 
 Within a section, bullets should be ordered alphabetically by the first function
